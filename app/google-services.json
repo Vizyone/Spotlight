@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "704699859294",
+    "firebase_url": "https://ace-wording-236614.firebaseio.com",
+    "project_id": "ace-wording-236614",
+    "storage_bucket": "ace-wording-236614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704699859294:android:4723873e5d7363a5",
+        "android_client_info": {
+          "package_name": "com.example.spotlight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704699859294-mo9hqpdjfqn8dvpkb04l59q9vtlbrrn8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spotlight",
+            "certificate_hash": "84d1e4ba56dfb0a1918f0a643e792d473e7c412c"
+          }
+        },
+        {
+          "client_id": "704699859294-c8g2pkkrovdlvn3qhqqcms92e4t9q5d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhCuZh0zoaBxxHo-P3_AWQ0cwgJ4-XjzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704699859294-c8g2pkkrovdlvn3qhqqcms92e4t9q5d8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

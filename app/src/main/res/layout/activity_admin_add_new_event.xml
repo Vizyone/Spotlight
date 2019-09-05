@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_list"
+    tools:context=".AdminAddNewEventActivity">
+    
+    <ImageView
+        android:id="@+id/select_event_image"
+        android:layout_width="350dp"
+        android:layout_height="200dp"
+        android:cropToPadding="false"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/select_product_image"
+        android:layout_centerHorizontal="true"/>
+    
+    <EditText
+        android:id="@+id/event_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/select_event_image"
+        android:inputType="textMultiLine"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"
+        android:background="@drawable/inputs"
+        android:textColorHint="@android:color/white"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:padding="20dp"
+        android:hint="Event Name..."/>
+
+    <EditText
+        android:id="@+id/event_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/event_name"
+        android:inputType="textMultiLine"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"
+        android:background="@drawable/inputs"
+        android:textColorHint="@android:color/white"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:padding="20dp"
+        android:hint="Event Description..."/>
+
+    <EditText
+        android:id="@+id/event_price"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/event_description"
+        android:inputType="number"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"
+        android:background="@drawable/inputs"
+        android:textColorHint="@android:color/white"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:padding="20dp"
+        android:hint="Event Price..."/>
+
+    <Button
+        android:id="@+id/add_new_event"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/event_price"
+        android:text="Add New Event"
+        android:textAllCaps="false"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/buttons"
+        android:textColor="@android:color/white"
+        android:padding="17dp"
+        android:textSize="18sp"
+        android:textStyle="bold"/>
+
+</RelativeLayout>
