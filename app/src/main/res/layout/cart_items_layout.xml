@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="10dp"
+    app:cardElevation="15dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@android:color/holo_blue_dark">
+
+        <TextView
+            android:id="@+id/cart_event_name"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:text="Event Name"
+            android:textColor="@android:color/white"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:layout_marginLeft="5dp"/>
+
+        <TextView
+            android:id="@+id/cart_number_of_tickets"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:text="Number of tickets"
+            android:textColor="@android:color/white"
+            android:textSize="15sp"
+            android:layout_marginLeft="5dp"
+            android:layout_alignParentEnd="true"
+            android:textAlignment="viewEnd"
+            android:textStyle="bold"
+            android:layout_marginEnd="5dp"/>
+
+        <TextView
+            android:id="@+id/cart_event_price"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Event Pirce"
+            android:textColor="@android:color/white"
+            android:textSize="15sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="10dp"
+            android:textStyle="bold"
+            android:layout_below="@id/cart_event_name"
+            android:gravity="center"/>
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

@@ -39,6 +39,7 @@ public class LoginActivity extends AppCompatActivity
     private CheckBox chkBoxRememberMe;
 
     private TextView AdminLink, NotAdminLink;
+    private TextView linkToRegister;
 
     @Override
     protected void onCreate(Bundle savedInstanceState)
