@@ -82,7 +82,7 @@ An App to promote events and sale tickets. Planners can post event on and have c
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-![](https://www.figma.com/file/o6oHJX8blt3DEfXCuj1W3X/Spotlight?node-id=2%3A0)
+![](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiNlM_ImsXkAhUkq1kKHaBkBlYQjRx6BAgBEAQ&url=https%3A%2F%2Fsports.ndtv.com%2Ffootball%2Flionel-messi-free-to-leave-at-end-of-season-barcelona-president-confirms-stunning-clause-in-contract-2097045&psig=AOvVaw2sb5LK3VZpJiAtKnVon2NN&ust=1568168907876452)
  
 
 ### [BONUS] Digital Wireframes & Mockups
