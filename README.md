@@ -33,6 +33,7 @@ An App to promote events and sale tickets. Planners can post event on and have c
 
 * User can see events without creating account.
 * User can select events to get more information about.
+* User can search for events by date
 * User can buy tickets for events they are interested in.
 * User can create an acount to buy tickets for events
 * User can select a profile picture
@@ -51,7 +52,9 @@ An App to promote events and sale tickets. Planners can post event on and have c
 
 * After purchase user receive a validation code ( Barcode QR Code)
 * User can rate events
-* ...
+* User can serach for events by artist
+* User can serach for events by category
+* User can search for events by location
 
 ### 2. Screen Archetypes
    *Users*
