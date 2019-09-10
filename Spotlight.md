@@ -82,8 +82,7 @@ An App to promote events and sale tickets. Planners can post event on and have c
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="https://i.imgur.com/9LWlNpa.jpg
-" width=600>
+<img src="https://github.com/Vizyone/Spotlight/blob/origin/master/IMG_20190909_232249.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
