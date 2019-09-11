@@ -1,0 +1,4 @@
+#Tue Sep 10 12:16:07 EST 2019
+base.0=/Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-iid:19.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fc8ac30a18bd5aadcca261a46211514e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fc8ac30a18bd5aadcca261a46211514e/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/gradle-5.6-rc-2/caches/modules-2/files-2.1/com.google.firebase/firebase-iid/19.0.0/ca6c4a2f11650e6f15ca859a254de3872381f397/firebase-iid-19.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

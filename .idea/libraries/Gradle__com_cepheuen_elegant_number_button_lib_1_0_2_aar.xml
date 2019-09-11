@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.cepheuen.elegant-number-button:lib:1.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3160a30bde8c205f53f42ad4cadc28b3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3160a30bde8c205f53f42ad4cadc28b3/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/gradle-5.6-rc-2/caches/modules-2/files-2.1/com.cepheuen.elegant-number-button/lib/1.0.2/f833bd751ed1206f889d3c0e959eb51b687d9ec2/lib-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

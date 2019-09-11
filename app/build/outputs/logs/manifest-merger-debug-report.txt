@@ -1,0 +1,587 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:2:1-45:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/f8dcb966f3b774c1546e8bf93934ba01/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.rey5137:material:1.2.5] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/2cdae87f33471f3e7a6ddd5b75fd7320/AndroidManifest.xml:2:1-11:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.8.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e1ff12f65370fbed5c100f156557bcc7/AndroidManifest.xml:2:1-11:12
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3160a30bde8c205f53f42ad4cadc28b3/AndroidManifest.xml:2:1-19:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/c7342271ae09603cea5f16d955ed3890/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/1817e4a081f37a810cad1eea796d2962/AndroidManifest.xml:17:1-22:12
+MERGED from [com.firebaseui:firebase-ui-database:5.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/b7ed3cc965c6c7253d891c5fb28bc217/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/463e95545768782695c404085a690be8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/a58c0ec94ec768df7184e97e6d126959/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/ab948f437b6d805a0f827e52c2203295/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-core:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/b7b690fc4edd5462b144c2c87d1f9e19/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/6c154d41c2e3ae53f134073dab7d4066/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3531831ffa3fd6a7a95140b5d9a86f3e/AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.firebase:firebase-database:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/5a50e3c64058db5d1f6668d1ab5b59fd/AndroidManifest.xml:15:1-36:12
+MERGED from [com.google.firebase:firebase-auth:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/d7da9c314955ed914261516acb8b0da8/AndroidManifest.xml:17:1-42:12
+MERGED from [io.paperdb:paperdb:2.6] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/b5bee756f7246e9bfea8d51d764573b3/AndroidManifest.xml:2:1-14:12
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3bcb777699683dd62e3550b746334358/AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/00271e1f5cb984b45d28a03ed113c96c/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/67a16954ec56a4781d5e576a9ccf52c6/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/82467063fc08e086b889c63e1e91e31d/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fc8ac30a18bd5aadcca261a46211514e/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/ecce6430ebefd57b1012c41822a389b7/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/94f0934dce31f757763cba118f0415eb/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/05c0a79059f7dabe1669115fe602f006/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/271837759cc385230eb8c8cebe2fb3c4/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/6f9a3a69b3fb90ec785b2c91a7e6fa27/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/5cc21fcefcaebc504570903a8541dab4/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3747f8e0882f5f88176f7c94cce06348/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/21f87f43ec695749a0d146bc3d19a545/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3cfd7f777e95b870386bc55a036a4789/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fd35c7a89e9b98e0112139f21159a70b/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/2f71ca44346d0884cdb800a42c681fc9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/54981ba67033836f5448852f1f054d11/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/8371b0edf3af1754e30211480df4e391/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/946c83694e2c9f95124ad77fb112cc53/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/b4340ceb7a5ad43c2dd88c9301345d22/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/dcd1cc6ecf9fe5c602b9235f9ec6ffef/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/c4dd27327d9001ccefb17576c4930bca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/f8af387a1bf5700f02eeb704ac027f52/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/7cc133aaaa1f5cf83d65d9e730b4403b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e03cc4ba371bacae7c2bb0e057d63408/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/7b0ca9ea8e7af866797bb3f33986b951/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/354483fb4030e1fcaf3cbd9088d6fe7e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/a71d834e5dc27b1f668f3bacf2ed74e8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/51b41aa1845df5b1b73a2fb99313d162/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/6cd01b12da6dfa2c3c7cbae284c1f706/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/5ca3d13813d716c626bc6aec77176b3d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/a45bc48f7b69081945805821adf4f042/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/077bf5a400301906bac06877fad16ced/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/a81e6191f7cf03545f1d15fa0370929f/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fee8f228aecbe0779a50d18df2c05ecc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/7ddd9ce52bc8d085528a609841a8972a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.firebaseui:firebase-ui-common:5.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/8b7521839afed406f235ef9869acda3c/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/bdea479c130f723e19708203f0559782/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/a4e31c160717c10642963a024a9450ae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/ab771cd5ea4ee3189170700d4010f87b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/c7c3136b2849b7e91253603589bc1d2f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/567530f366e6b1ca3257f604a9237b4c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/06a8a7e5b4b96634fcee0d3e445a05b0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/f5b85a1b6752262e2899a20f7102eb90/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/8abd1902b1318be0d6ecb3390e99638b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/2a45511bb3a062d1dca510b87040c1d3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/82c4e15a62a57b8acdddf6150baedbb9/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.firebaseui:firebase-ui-database:5.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/b7ed3cc965c6c7253d891c5fb28bc217/AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:5.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/b7ed3cc965c6c7253d891c5fb28bc217/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3531831ffa3fd6a7a95140b5d9a86f3e/AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3531831ffa3fd6a7a95140b5d9a86f3e/AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-database:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/5a50e3c64058db5d1f6668d1ab5b59fd/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/5a50e3c64058db5d1f6668d1ab5b59fd/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/82467063fc08e086b889c63e1e91e31d/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/82467063fc08e086b889c63e1e91e31d/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fc8ac30a18bd5aadcca261a46211514e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fc8ac30a18bd5aadcca261a46211514e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/5cc21fcefcaebc504570903a8541dab4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/5cc21fcefcaebc504570903a8541dab4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3747f8e0882f5f88176f7c94cce06348/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3747f8e0882f5f88176f7c94cce06348/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:7:22-78
+application
+ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:9:5-43:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/f8dcb966f3b774c1546e8bf93934ba01/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/f8dcb966f3b774c1546e8bf93934ba01/AndroidManifest.xml:22:5-20
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3160a30bde8c205f53f42ad4cadc28b3/AndroidManifest.xml:11:5-17:19
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3160a30bde8c205f53f42ad4cadc28b3/AndroidManifest.xml:11:5-17:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/a58c0ec94ec768df7184e97e6d126959/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/a58c0ec94ec768df7184e97e6d126959/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/b7b690fc4edd5462b144c2c87d1f9e19/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/b7b690fc4edd5462b144c2c87d1f9e19/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/6c154d41c2e3ae53f134073dab7d4066/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/6c154d41c2e3ae53f134073dab7d4066/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3531831ffa3fd6a7a95140b5d9a86f3e/AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3531831ffa3fd6a7a95140b5d9a86f3e/AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/5a50e3c64058db5d1f6668d1ab5b59fd/AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/5a50e3c64058db5d1f6668d1ab5b59fd/AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-auth:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/d7da9c314955ed914261516acb8b0da8/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/d7da9c314955ed914261516acb8b0da8/AndroidManifest.xml:23:5-40:19
+MERGED from [io.paperdb:paperdb:2.6] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/b5bee756f7246e9bfea8d51d764573b3/AndroidManifest.xml:12:5-20
+MERGED from [io.paperdb:paperdb:2.6] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/b5bee756f7246e9bfea8d51d764573b3/AndroidManifest.xml:12:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3bcb777699683dd62e3550b746334358/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3bcb777699683dd62e3550b746334358/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/00271e1f5cb984b45d28a03ed113c96c/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/00271e1f5cb984b45d28a03ed113c96c/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/67a16954ec56a4781d5e576a9ccf52c6/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/67a16954ec56a4781d5e576a9ccf52c6/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/82467063fc08e086b889c63e1e91e31d/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/82467063fc08e086b889c63e1e91e31d/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fc8ac30a18bd5aadcca261a46211514e/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fc8ac30a18bd5aadcca261a46211514e/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/ecce6430ebefd57b1012c41822a389b7/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/ecce6430ebefd57b1012c41822a389b7/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/94f0934dce31f757763cba118f0415eb/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/94f0934dce31f757763cba118f0415eb/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/05c0a79059f7dabe1669115fe602f006/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/05c0a79059f7dabe1669115fe602f006/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/271837759cc385230eb8c8cebe2fb3c4/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/271837759cc385230eb8c8cebe2fb3c4/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/6f9a3a69b3fb90ec785b2c91a7e6fa27/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/6f9a3a69b3fb90ec785b2c91a7e6fa27/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/5cc21fcefcaebc504570903a8541dab4/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/5cc21fcefcaebc504570903a8541dab4/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/21f87f43ec695749a0d146bc3d19a545/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/21f87f43ec695749a0d146bc3d19a545/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3cfd7f777e95b870386bc55a036a4789/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3cfd7f777e95b870386bc55a036a4789/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fd35c7a89e9b98e0112139f21159a70b/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fd35c7a89e9b98e0112139f21159a70b/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/2f71ca44346d0884cdb800a42c681fc9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/2f71ca44346d0884cdb800a42c681fc9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/54981ba67033836f5448852f1f054d11/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/54981ba67033836f5448852f1f054d11/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/077bf5a400301906bac06877fad16ced/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/077bf5a400301906bac06877fad16ced/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/a81e6191f7cf03545f1d15fa0370929f/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/a81e6191f7cf03545f1d15fa0370929f/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/077bf5a400301906bac06877fad16ced/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.example.spotlight.CartActivity
+ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:16:9-59
+	android:name
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:16:19-47
+activity#com.example.spotlight.EventDetailsNoLoginActivity
+ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:17:9-65
+	android:name
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:17:19-62
+activity#com.example.spotlight.EventDetailsActivity
+ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:18:9-58
+	android:name
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:18:19-55
+activity#com.example.spotlight.SettingsActivity
+ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:19:9-54
+	android:name
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:19:19-51
+activity#com.example.spotlight.HomeActivity
+ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:20:9-23:59
+	android:label
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:22:13-45
+	android:theme
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:21:13-41
+activity#com.example.spotlight.AdminCategoryActivity
+ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:24:9-59
+	android:name
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:24:19-56
+activity#com.example.spotlight.AdminAddNewEventActivity
+ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:25:9-62
+	android:name
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:25:19-59
+activity#com.example.spotlight.RegisterActivity
+ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:26:9-54
+	android:name
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:26:19-51
+activity#com.example.spotlight.LoginActivity
+ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:27:9-51
+	android:name
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:27:19-48
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:28:9-30:59
+	android:theme
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:29:13-76
+activity#com.example.spotlight.MainActivity
+ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:31:9-50
+	android:name
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:31:19-47
+activity#com.example.spotlight.HomeNoLoginActivity
+ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:32:9-38:20
+	android:name
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:32:19-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:36:27-74
+meta-data#preloaded_fonts
+ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:40:9-42:57
+	android:resource
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:42:13-54
+	android:name
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml:41:13-43
+uses-sdk
+INJECTED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml
+INJECTED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/f8dcb966f3b774c1546e8bf93934ba01/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/f8dcb966f3b774c1546e8bf93934ba01/AndroidManifest.xml:20:5-44
+MERGED from [com.github.rey5137:material:1.2.5] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/2cdae87f33471f3e7a6ddd5b75fd7320/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.rey5137:material:1.2.5] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/2cdae87f33471f3e7a6ddd5b75fd7320/AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.8.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e1ff12f65370fbed5c100f156557bcc7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.8.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e1ff12f65370fbed5c100f156557bcc7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3160a30bde8c205f53f42ad4cadc28b3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3160a30bde8c205f53f42ad4cadc28b3/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/c7342271ae09603cea5f16d955ed3890/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/c7342271ae09603cea5f16d955ed3890/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/1817e4a081f37a810cad1eea796d2962/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/1817e4a081f37a810cad1eea796d2962/AndroidManifest.xml:20:5-44
+MERGED from [com.firebaseui:firebase-ui-database:5.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/b7ed3cc965c6c7253d891c5fb28bc217/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:5.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/b7ed3cc965c6c7253d891c5fb28bc217/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/463e95545768782695c404085a690be8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/463e95545768782695c404085a690be8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/a58c0ec94ec768df7184e97e6d126959/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/a58c0ec94ec768df7184e97e6d126959/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/ab948f437b6d805a0f827e52c2203295/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/ab948f437b6d805a0f827e52c2203295/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/b7b690fc4edd5462b144c2c87d1f9e19/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/b7b690fc4edd5462b144c2c87d1f9e19/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/6c154d41c2e3ae53f134073dab7d4066/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/6c154d41c2e3ae53f134073dab7d4066/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3531831ffa3fd6a7a95140b5d9a86f3e/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3531831ffa3fd6a7a95140b5d9a86f3e/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/5a50e3c64058db5d1f6668d1ab5b59fd/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/5a50e3c64058db5d1f6668d1ab5b59fd/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/d7da9c314955ed914261516acb8b0da8/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/d7da9c314955ed914261516acb8b0da8/AndroidManifest.xml:21:5-44
+MERGED from [io.paperdb:paperdb:2.6] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/b5bee756f7246e9bfea8d51d764573b3/AndroidManifest.xml:8:5-10:41
+MERGED from [io.paperdb:paperdb:2.6] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/b5bee756f7246e9bfea8d51d764573b3/AndroidManifest.xml:8:5-10:41
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3bcb777699683dd62e3550b746334358/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3bcb777699683dd62e3550b746334358/AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/00271e1f5cb984b45d28a03ed113c96c/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/00271e1f5cb984b45d28a03ed113c96c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/67a16954ec56a4781d5e576a9ccf52c6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/67a16954ec56a4781d5e576a9ccf52c6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/82467063fc08e086b889c63e1e91e31d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/82467063fc08e086b889c63e1e91e31d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fc8ac30a18bd5aadcca261a46211514e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fc8ac30a18bd5aadcca261a46211514e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/ecce6430ebefd57b1012c41822a389b7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/ecce6430ebefd57b1012c41822a389b7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/94f0934dce31f757763cba118f0415eb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/94f0934dce31f757763cba118f0415eb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/05c0a79059f7dabe1669115fe602f006/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/05c0a79059f7dabe1669115fe602f006/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/271837759cc385230eb8c8cebe2fb3c4/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/271837759cc385230eb8c8cebe2fb3c4/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/6f9a3a69b3fb90ec785b2c91a7e6fa27/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/6f9a3a69b3fb90ec785b2c91a7e6fa27/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/5cc21fcefcaebc504570903a8541dab4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/5cc21fcefcaebc504570903a8541dab4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3747f8e0882f5f88176f7c94cce06348/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3747f8e0882f5f88176f7c94cce06348/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/21f87f43ec695749a0d146bc3d19a545/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/21f87f43ec695749a0d146bc3d19a545/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3cfd7f777e95b870386bc55a036a4789/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3cfd7f777e95b870386bc55a036a4789/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fd35c7a89e9b98e0112139f21159a70b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fd35c7a89e9b98e0112139f21159a70b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/2f71ca44346d0884cdb800a42c681fc9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/2f71ca44346d0884cdb800a42c681fc9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/54981ba67033836f5448852f1f054d11/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/54981ba67033836f5448852f1f054d11/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/8371b0edf3af1754e30211480df4e391/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/8371b0edf3af1754e30211480df4e391/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/946c83694e2c9f95124ad77fb112cc53/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/946c83694e2c9f95124ad77fb112cc53/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/b4340ceb7a5ad43c2dd88c9301345d22/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/b4340ceb7a5ad43c2dd88c9301345d22/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/dcd1cc6ecf9fe5c602b9235f9ec6ffef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/dcd1cc6ecf9fe5c602b9235f9ec6ffef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/c4dd27327d9001ccefb17576c4930bca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/c4dd27327d9001ccefb17576c4930bca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/f8af387a1bf5700f02eeb704ac027f52/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/f8af387a1bf5700f02eeb704ac027f52/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/7cc133aaaa1f5cf83d65d9e730b4403b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/7cc133aaaa1f5cf83d65d9e730b4403b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e03cc4ba371bacae7c2bb0e057d63408/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e03cc4ba371bacae7c2bb0e057d63408/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/7b0ca9ea8e7af866797bb3f33986b951/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/7b0ca9ea8e7af866797bb3f33986b951/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/354483fb4030e1fcaf3cbd9088d6fe7e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/354483fb4030e1fcaf3cbd9088d6fe7e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/a71d834e5dc27b1f668f3bacf2ed74e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/a71d834e5dc27b1f668f3bacf2ed74e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/51b41aa1845df5b1b73a2fb99313d162/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/51b41aa1845df5b1b73a2fb99313d162/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/6cd01b12da6dfa2c3c7cbae284c1f706/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/6cd01b12da6dfa2c3c7cbae284c1f706/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/5ca3d13813d716c626bc6aec77176b3d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/5ca3d13813d716c626bc6aec77176b3d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/a45bc48f7b69081945805821adf4f042/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/a45bc48f7b69081945805821adf4f042/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/077bf5a400301906bac06877fad16ced/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/077bf5a400301906bac06877fad16ced/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/a81e6191f7cf03545f1d15fa0370929f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/a81e6191f7cf03545f1d15fa0370929f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fee8f228aecbe0779a50d18df2c05ecc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fee8f228aecbe0779a50d18df2c05ecc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/7ddd9ce52bc8d085528a609841a8972a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/7ddd9ce52bc8d085528a609841a8972a/AndroidManifest.xml:20:5-44
+MERGED from [com.firebaseui:firebase-ui-common:5.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/8b7521839afed406f235ef9869acda3c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-common:5.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/8b7521839afed406f235ef9869acda3c/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/bdea479c130f723e19708203f0559782/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/bdea479c130f723e19708203f0559782/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/a4e31c160717c10642963a024a9450ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/a4e31c160717c10642963a024a9450ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/ab771cd5ea4ee3189170700d4010f87b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/ab771cd5ea4ee3189170700d4010f87b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/c7c3136b2849b7e91253603589bc1d2f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/c7c3136b2849b7e91253603589bc1d2f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/567530f366e6b1ca3257f604a9237b4c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/567530f366e6b1ca3257f604a9237b4c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/06a8a7e5b4b96634fcee0d3e445a05b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/06a8a7e5b4b96634fcee0d3e445a05b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/f5b85a1b6752262e2899a20f7102eb90/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/f5b85a1b6752262e2899a20f7102eb90/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/8abd1902b1318be0d6ecb3390e99638b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/8abd1902b1318be0d6ecb3390e99638b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/2a45511bb3a062d1dca510b87040c1d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/2a45511bb3a062d1dca510b87040c1d3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/82c4e15a62a57b8acdddf6150baedbb9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/82c4e15a62a57b8acdddf6150baedbb9/AndroidManifest.xml:5:5-44
+INJECTED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml
+INJECTED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml
+		ADDED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-storage:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3531831ffa3fd6a7a95140b5d9a86f3e/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-database:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/5a50e3c64058db5d1f6668d1ab5b59fd/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/5a50e3c64058db5d1f6668d1ab5b59fd/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/82467063fc08e086b889c63e1e91e31d/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/82467063fc08e086b889c63e1e91e31d/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fc8ac30a18bd5aadcca261a46211514e/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fc8ac30a18bd5aadcca261a46211514e/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/5cc21fcefcaebc504570903a8541dab4/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/5cc21fcefcaebc504570903a8541dab4/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3747f8e0882f5f88176f7c94cce06348/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3747f8e0882f5f88176f7c94cce06348/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3531831ffa3fd6a7a95140b5d9a86f3e/AndroidManifest.xml:26:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-storage:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3531831ffa3fd6a7a95140b5d9a86f3e/AndroidManifest.xml:30:9-34:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/5a50e3c64058db5d1f6668d1ab5b59fd/AndroidManifest.xml:29:9-33:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/5a50e3c64058db5d1f6668d1ab5b59fd/AndroidManifest.xml:29:9-33:19
+MERGED from [com.google.firebase:firebase-auth:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/d7da9c314955ed914261516acb8b0da8/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/d7da9c314955ed914261516acb8b0da8/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/82467063fc08e086b889c63e1e91e31d/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/82467063fc08e086b889c63e1e91e31d/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fc8ac30a18bd5aadcca261a46211514e/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fc8ac30a18bd5aadcca261a46211514e/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/d7da9c314955ed914261516acb8b0da8/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3531831ffa3fd6a7a95140b5d9a86f3e/AndroidManifest.xml:30:18-89
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3531831ffa3fd6a7a95140b5d9a86f3e/AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3531831ffa3fd6a7a95140b5d9a86f3e/AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3531831ffa3fd6a7a95140b5d9a86f3e/AndroidManifest.xml:32:17-107
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/5a50e3c64058db5d1f6668d1ab5b59fd/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/5a50e3c64058db5d1f6668d1ab5b59fd/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/5a50e3c64058db5d1f6668d1ab5b59fd/AndroidManifest.xml:31:17-109
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/d7da9c314955ed914261516acb8b0da8/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/d7da9c314955ed914261516acb8b0da8/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/d7da9c314955ed914261516acb8b0da8/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/d7da9c314955ed914261516acb8b0da8/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/d7da9c314955ed914261516acb8b0da8/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/d7da9c314955ed914261516acb8b0da8/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/d7da9c314955ed914261516acb8b0da8/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/d7da9c314955ed914261516acb8b0da8/AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/d7da9c314955ed914261516acb8b0da8/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/d7da9c314955ed914261516acb8b0da8/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/d7da9c314955ed914261516acb8b0da8/AndroidManifest.xml:37:17-109
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/00271e1f5cb984b45d28a03ed113c96c/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/00271e1f5cb984b45d28a03ed113c96c/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/00271e1f5cb984b45d28a03ed113c96c/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/00271e1f5cb984b45d28a03ed113c96c/AndroidManifest.xml:9:13-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/82467063fc08e086b889c63e1e91e31d/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fc8ac30a18bd5aadcca261a46211514e/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fc8ac30a18bd5aadcca261a46211514e/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/5cc21fcefcaebc504570903a8541dab4/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/5cc21fcefcaebc504570903a8541dab4/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3747f8e0882f5f88176f7c94cce06348/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/3747f8e0882f5f88176f7c94cce06348/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/82467063fc08e086b889c63e1e91e31d/AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/82467063fc08e086b889c63e1e91e31d/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/82467063fc08e086b889c63e1e91e31d/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/82467063fc08e086b889c63e1e91e31d/AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fc8ac30a18bd5aadcca261a46211514e/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fc8ac30a18bd5aadcca261a46211514e/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fc8ac30a18bd5aadcca261a46211514e/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fc8ac30a18bd5aadcca261a46211514e/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fc8ac30a18bd5aadcca261a46211514e/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fc8ac30a18bd5aadcca261a46211514e/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fc8ac30a18bd5aadcca261a46211514e/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fc8ac30a18bd5aadcca261a46211514e/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fc8ac30a18bd5aadcca261a46211514e/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fc8ac30a18bd5aadcca261a46211514e/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fc8ac30a18bd5aadcca261a46211514e/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/fc8ac30a18bd5aadcca261a46211514e/AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/94f0934dce31f757763cba118f0415eb/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/94f0934dce31f757763cba118f0415eb/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/94f0934dce31f757763cba118f0415eb/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/94f0934dce31f757763cba118f0415eb/AndroidManifest.xml:24:13-79
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/5cc21fcefcaebc504570903a8541dab4/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/5cc21fcefcaebc504570903a8541dab4/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/5cc21fcefcaebc504570903a8541dab4/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/5cc21fcefcaebc504570903a8541dab4/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/e6b83ed2a889a560c11e16f7485a3614/AndroidManifest.xml:49:13-87
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/271837759cc385230eb8c8cebe2fb3c4/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/271837759cc385230eb8c8cebe2fb3c4/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/271837759cc385230eb8c8cebe2fb3c4/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/271837759cc385230eb8c8cebe2fb3c4/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/271837759cc385230eb8c8cebe2fb3c4/AndroidManifest.xml:13:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/54981ba67033836f5448852f1f054d11/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/54981ba67033836f5448852f1f054d11/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/olivierahgantier/Downloads/gradle-5.6-rc-2/caches/transforms-2/files-2.1/54981ba67033836f5448852f1f054d11/AndroidManifest.xml:24:13-58

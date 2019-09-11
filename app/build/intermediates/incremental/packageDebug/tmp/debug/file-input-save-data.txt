@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Sep 09 08:29:51 EST 2019
+0.baseType=DIRECTORY
+0.base=/Users/olivierahgantier/AndroidStudioProjects/Spotlight/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1
