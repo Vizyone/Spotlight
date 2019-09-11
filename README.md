@@ -32,30 +32,30 @@ An App to promote events and sale tickets. Planners can post event on and have c
 **Required Must-have Stories**
 
  - [ ] User can see events without creating account.
-* User can select events to get more information about.
-* User can search for events by date
-* User can buy tickets for events they are interested in.
-* User can create an account to buy tickets for events
-* User can select a profile picture
-* User can edit personal informations
-* User can logout
-* After purchase, user can receive a validation code ( SMS, email)
-* Planner can post event (Validated by Spotlight team before posted in the timeline)
-* Planner can login into his account
-* Planner can add event by category
-* Planner can have two accounts(One as admin, one as user )
-* Planner can see in real time number of sold tickets.
-* Planner can validate sold ticket at event day from participants.
+ - [ ] User can select events to get more information about.
+ - [ ] User can search for events by date
+ - [ ] User can buy tickets for events they are interested in.
+ - [ ] User can create an account to buy tickets for events
+ - [ ] User can select a profile picture
+ - [ ] User can edit personal informations
+ - [ ] User can logout
+ - [ ] After purchase, user can receive a validation code ( SMS, email)
+ - [ ] Planner can post event (Validated by Spotlight team before posted in the timeline)
+ - [ ] Planner can login into his account
+ - [ ] Planner can add event by category
+ - [ ] Planner can have two accounts(One as admin, one as user )
+ - [ ] Planner can see in real time number of sold tickets.
+ - [ ] Planner can validate sold ticket at event day from participants.
 
 
 **Optional Nice-to-have Stories**
 
-* After purchase user receive a validation code ( Barcode QR Code)
-* User can rate events
-* User can serach for events by artist
-* User can serach for events by category
-* User can search for events by location
-*...
+ - [ ] After purchase user receive a validation code ( Barcode QR Code)
+ - [ ] User can rate events
+ - [ ] User can serach for events by artist
+ - [ ] User can serach for events by category
+ - [ ] User can search for events by location
+
 
 ### 2. Screen Archetypes
    *Users*
