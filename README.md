@@ -32,18 +32,18 @@ An App to promote events and sale tickets. Planners can post event on and have c
 **Required Must-have Stories**
 
  - [x] User can see events without creating account.
- - [ ] User can select events to get more information about.
+ - [x] User can select events to get more information about.
+ - [x] User can create an account to buy tickets for events
+ - [x] User can select a profile picture
+ - [x] User can edit personal informations
+ - [x] User can logout
+ - [x] Planner can post event (Validated by Spotlight team before posted in the timeline)
+ - [x] Planner can login into his account
+ - [x] Planner can add event by category
+ - [x] Planner can have two accounts(One as admin, one as user )
  - [ ] User can search for events by date
  - [ ] User can buy tickets for events they are interested in.
- - [ ] User can create an account to buy tickets for events
- - [ ] User can select a profile picture
- - [ ] User can edit personal informations
- - [ ] User can logout
  - [ ] After purchase, user can receive a validation code ( SMS, email)
- - [ ] Planner can post event (Validated by Spotlight team before posted in the timeline)
- - [ ] Planner can login into his account
- - [ ] Planner can add event by category
- - [ ] Planner can have two accounts(One as admin, one as user )
  - [ ] Planner can see in real time number of sold tickets.
  - [ ] Planner can validate sold ticket at event day from participants.
 
