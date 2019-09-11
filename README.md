@@ -123,6 +123,8 @@ https://www.figma.com/file/o6oHJX8blt3DEfXCuj1W3X/Spotlight?node-id=0%3A1
 
 ### [BONUS] Interactive Prototype
 https://www.figma.com/proto/o6oHJX8blt3DEfXCuj1W3X/Spotlight?node-id=48%3A2&scaling=scale-down
+<img src="Interactive Prototype Wireframe.gif" width=300 height=300> 
+
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
