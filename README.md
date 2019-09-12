@@ -119,15 +119,7 @@ An App to promote events and sale tickets. Planners can post event on and have c
 
 
 ### [BONUS] Digital Wireframes & Mockups
-<img src="https://github.com/Vizyone/Spotlight/blob/origin/master/Screen1.PNG" width=150>
-<img src="https://github.com/Vizyone/Spotlight/blob/origin/master/Screen2.PNG" width=150>
-<img src="https://github.com/Vizyone/Spotlight/blob/origin/master/Screen3.PNG" width=150>
-<img src="https://github.com/Vizyone/Spotlight/blob/origin/master/Screen4.PNG" width=150>
-<img src="https://github.com/Vizyone/Spotlight/blob/origin/master/Screen5.PNG" width=150>
-<img src="https://github.com/Vizyone/Spotlight/blob/origin/master/Screen6.PNG" width=150>
-<img src="https://github.com/Vizyone/Spotlight/blob/origin/master/Screen7.PNG" width=150>
-<img src="https://github.com/Vizyone/Spotlight/blob/origin/master/Screen8.PNG" width=150>
-<img src="https://github.com/Vizyone/Spotlight/blob/origin/master/Screen9.PNG" width=150>
+<img src="https://github.com/Vizyone/Spotlight/blob/origin/master/Screen1.PNG" width=150> <img src="https://github.com/Vizyone/Spotlight/blob/origin/master/Screen2.PNG" width=150> <img src="https://github.com/Vizyone/Spotlight/blob/origin/master/Screen3.PNG" width=150> <img src="https://github.com/Vizyone/Spotlight/blob/origin/master/Screen4.PNG" width=150> <img src="https://github.com/Vizyone/Spotlight/blob/origin/master/Screen5.PNG" width=150> <img src="https://github.com/Vizyone/Spotlight/blob/origin/master/Screen6.PNG" width=150> <img src="https://github.com/Vizyone/Spotlight/blob/origin/master/Screen7.PNG" width=150> <img src="https://github.com/Vizyone/Spotlight/blob/origin/master/Screen8.PNG" width=150> <img src="https://github.com/Vizyone/Spotlight/blob/origin/master/Screen9.PNG" width=150>
 
 ### [BONUS] Interactive Prototype
 https://www.figma.com/proto/o6oHJX8blt3DEfXCuj1W3X/Spotlight?node-id=48%3A2&scaling=scale-down
