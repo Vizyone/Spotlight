@@ -55,6 +55,7 @@ An App to promote events and sale tickets. Planners can post event on and have c
  - [ ] User can serach for events by artist
  - [ ] User can serach for events by category
  - [ ] User can search for events by location
+ - [ ] User can see live events
 
 
 ### 2. Screen Archetypes
