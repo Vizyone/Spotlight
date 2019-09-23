@@ -11,7 +11,7 @@
         android:id="@+id/image_details"
         android:layout_width="match_parent"
         android:layout_marginTop="10dp"
-        android:layout_height="260dp" />
+        android:layout_height="300dp" />
 
     <TextView
         android:id="@+id/name_details"
@@ -27,27 +27,26 @@
 
     <TextView
         android:id="@+id/description_details"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/name_details"
         android:text="Event Description"
         android:textSize="16sp"
-        android:textStyle="bold"
         android:textColor="@android:color/black"
         android:layout_marginTop="10dp"
-        android:gravity="center"/>
+        android:layout_centerHorizontal="true"/>
 
     <TextView
         android:id="@+id/price_details"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/description_details"
-        android:text="Event Name"
-        android:textSize="18sp"
-        android:textStyle="bold"
-        android:textColor="@android:color/black"
         android:layout_marginTop="10dp"
-        android:gravity="center"/>
+        android:gravity="center"
+        android:text="Event Name"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:textStyle="normal" />
 
     <com.cepheuen.elegantnumberbutton.view.ElegantNumberButton
         android:id="@+id/switch_number_btn"

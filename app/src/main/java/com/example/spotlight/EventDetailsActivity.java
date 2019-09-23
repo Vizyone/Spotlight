@@ -124,7 +124,7 @@ public class EventDetailsActivity extends AppCompatActivity
 
                     eventName.setText(events.getEname());
                     eventDescription.setText(events.getDescription());
-                    eventPrice.setText(events.getPrice() + " $");
+                    eventPrice.setText(events.getPrice());
 
                     Picasso.get().load(events.getImage()).into(eventImage);
                 }

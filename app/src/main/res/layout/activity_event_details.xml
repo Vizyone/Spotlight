@@ -10,7 +10,7 @@
         android:id="@+id/event_image_details"
         android:layout_width="match_parent"
         android:layout_marginTop="10dp"
-        android:layout_height="260dp" />
+        android:layout_height="300dp" />
 
     <TextView
         android:id="@+id/event_name_details"
@@ -26,24 +26,22 @@
 
     <TextView
         android:id="@+id/event_description_details"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/event_name_details"
         android:text="Event Description"
         android:textSize="16sp"
-        android:textStyle="bold"
         android:textColor="@android:color/black"
         android:layout_marginTop="10dp"
-        android:gravity="center"/>
+        android:layout_centerHorizontal="true"/>
 
     <TextView
         android:id="@+id/event_price_details"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/event_description_details"
-        android:text="Event Name"
+        android:text="Event Price"
         android:textSize="18sp"
-        android:textStyle="bold"
         android:textColor="@android:color/black"
         android:layout_marginTop="10dp"
         android:gravity="center"/>

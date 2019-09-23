@@ -12,6 +12,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.example.spotlight.Model.Events;
+import com.example.spotlight.Prevalent.Prevalent;
 import com.example.spotlight.ViewHolder.EventViewHolder;
 import com.firebase.ui.database.FirebaseRecyclerAdapter;
 import com.firebase.ui.database.FirebaseRecyclerOptions;
@@ -56,6 +57,12 @@ public class HomeNoLoginActivity extends AppCompatActivity
     protected void onStart()
     {
         super.onStart();
+
+        if(Prevalent.currentOnlineUser != null)
+        {
+            Intent loginIntent = new Intent(HomeNoLoginActivity.this,HomeActivity.class);
+            startActivity(loginIntent);
+        }
 
         FirebaseRecyclerOptions<Events> options =
                 new FirebaseRecyclerOptions.Builder<Events>()

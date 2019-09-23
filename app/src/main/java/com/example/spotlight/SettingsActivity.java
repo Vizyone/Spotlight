@@ -63,7 +63,7 @@ public class SettingsActivity extends AppCompatActivity
         closeTextBtn = findViewById(R.id.close_settings);
         saveTextBtn = findViewById(R.id.update_settings);
 
-        userInfoDisplay(profileImageView, fullNameEditText,userPhoneEditText, emailEditText);
+        userInfoDisplay(profileImageView, fullNameEditText, userPhoneEditText, emailEditText);
 
         closeTextBtn.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -92,7 +92,7 @@ public class SettingsActivity extends AppCompatActivity
             @Override
             public void onClick(View view)
             {
-                checker.equals("clicked");
+                checker = "clicked";
 
                 CropImage.activity()
                         .setAspectRatio(1,1)
@@ -107,11 +107,12 @@ public class SettingsActivity extends AppCompatActivity
 
         HashMap<String,Object> userMap = new HashMap<>();
         userMap.put("name",fullNameEditText.getText().toString());
-        userMap.put("phoneOrder",userPhoneEditText.getText().toString());
+        userMap.put("phone",userPhoneEditText.getText().toString());
         userMap.put("email",emailEditText.getText().toString());
         ref.child(Prevalent.currentOnlineUser.getPhone()).updateChildren(userMap);
 
         startActivity(new Intent(getApplicationContext(),HomeActivity.class));
+        Toast.makeText(this, "Profile Info Updated", Toast.LENGTH_SHORT).show();
         finish();
     }
 
@@ -167,7 +168,8 @@ public class SettingsActivity extends AppCompatActivity
 
         if(imageUri != null)
         {
-            final StorageReference fileRef = storageProfilePictureRef.child(Prevalent.currentOnlineUser.getPhone() + ".jpg");
+            final StorageReference fileRef = storageProfilePictureRef
+                    .child(Prevalent.currentOnlineUser.getPhone() + ".jpg");
 
             uploadTask = fileRef.putFile(imageUri);
 
@@ -196,13 +198,14 @@ public class SettingsActivity extends AppCompatActivity
 
                         HashMap<String,Object> userMap = new HashMap<>();
                         userMap.put("name",fullNameEditText.getText().toString());
-                        userMap.put("phoneOrder",userPhoneEditText.getText().toString());
+                        userMap.put("phone",userPhoneEditText.getText().toString());
                         userMap.put("email",emailEditText.getText().toString());
                         userMap.put("image",myUrl);
                         ref.child(Prevalent.currentOnlineUser.getPhone()).updateChildren(userMap);
 
                         progressDialog.dismiss();
                         startActivity(new Intent(getApplicationContext(),HomeActivity.class));
+                        Toast.makeText(SettingsActivity.this, "Profile Info updated successfully", Toast.LENGTH_SHORT).show();
                         finish();
                     }
                     else
@@ -241,6 +244,13 @@ public class SettingsActivity extends AppCompatActivity
                         userPhoneEditText.setText(phone);
                         emailEditText.setText(email);
                     }
+                    String name = dataSnapshot.child("name").getValue().toString();
+                    String phone = dataSnapshot.child("phone").getValue().toString();
+                    String email = dataSnapshot.child("email").getValue().toString();
+
+                    fullNameEditText.setText(name);
+                    userPhoneEditText.setText(phone);
+                    emailEditText.setText(email);
                 }
             }
 
