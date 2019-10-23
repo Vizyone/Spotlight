@@ -6,13 +6,18 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.os.Build;
 import android.os.Bundle;
+import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.PopupWindow;
+import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -49,9 +54,46 @@ public class CartActivity extends AppCompatActivity
 
         nextProcessBtn = findViewById(R.id.next_process_btn);
         txtTotalAmount = findViewById(R.id.total_price);
+        //For the pop up
+        relativeLayout = findViewById(R.id.popup);
+        nextProcessBtn.setOnClickListener(new View.OnClickListener() {
+
+
+            @Override
+            public void onClick(View view) {
+                Toast.makeText(CartActivity.this, "Add the popup!", Toast.LENGTH_SHORT).show();
+                //showpopup();
+                Intent i = new Intent(CartActivity.this, PopUpWindow.class);
+                startActivity(i);
+            }
+        });
 
 
     }
+    //private PopupWindow popupWindow;
+    private RelativeLayout relativeLayout;
+    /*private void showpopup() {
+
+
+        LayoutInflater inflater = (LayoutInflater) CartActivity.this.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
+
+
+        View layout = inflater.inflate(R.layout.payment_confirmation_popup, null);
+        popupWindow = new PopupWindow(layout, RelativeLayout.LayoutParams.WRAP_CONTENT, RelativeLayout.LayoutParams.WRAP_CONTENT);
+        /*Button btnSubmit = layout.findViewById(R.id.btnSubmit);
+        btnSubmit.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                popupWindow.dismiss();
+            }
+        });
+        popupWindow.showAtLocation(relativeLayout, Gravity.CENTER,0,0);
+
+        if (Build.VERSION.SDK_INT>=21){
+            popupWindow.setElevation(5.0f);
+        }
+
+    }*/
 
     @Override
     protected void onStart()
@@ -140,4 +182,5 @@ public class CartActivity extends AppCompatActivity
         recyclerView.setAdapter(adapter);
         adapter.startListening();
     }
+
 }

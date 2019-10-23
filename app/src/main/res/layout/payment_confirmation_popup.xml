@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/popup"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="15dp"
+    android:layout_marginTop="15dp"
+    android:layout_marginRight="15dp"
+    android:background="#3DCF42"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/tv1Popup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:text="Card Number"
+        android:textSize="25dp" />
+
+    <EditText
+        android:id="@+id/etCardNumber"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@id/tv1Popup"
+        android:layout_marginBottom="15dp"
+        android:hint="4444 5555 6666 7777" />
+
+    <TextView
+        android:id="@+id/tv2Popup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/etCardNumber"
+        android:layout_marginBottom="15dp"
+        android:text="Expiration"
+        android:textSize="25dp" />
+
+    <EditText
+        android:id="@+id/etExp"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/tv2Popup"
+        android:layout_marginBottom="15dp"
+        android:hint="10/2020" />
+
+    <TextView
+        android:id="@+id/tvCvv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/tv2Popup"
+        android:layout_marginLeft="130dp"
+        android:layout_toRightOf="@id/tv2Popup"
+        android:text="CVV"
+        android:textSize="25dp" />
+
+    <EditText
+        android:id="@+id/etCvv"
+        android:layout_width="60dp"
+        android:layout_height="40dp"
+        android:layout_alignLeft="@id/tvCvv"
+        android:layout_alignBottom="@id/etExp" />
+
+    <TextView
+        android:id="@+id/tvFirstName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/etExp"
+        android:layout_marginBottom="15dp"
+        android:text="First Name"
+        android:textSize="25dp" />
+
+    <EditText
+        android:id="@+id/etFirstName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvFirstName"
+        android:text="John Boby" />
+
+    <TextView
+        android:id="@+id/tvLastName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/tvCvv"
+        android:layout_alignBottom="@id/tvFirstName"
+        android:layout_toRightOf="@id/tvFirstName"
+        android:text="Last Name"
+        android:textSize="22sp"
+        android:layout_marginRight="8dp"/>
+
+    <EditText
+        android:id="@+id/etLastName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/tvLastName"
+        android:layout_alignBottom="@id/etFirstName"
+        android:text="Mesadieu" />
+
+    <Button
+        android:id="@+id/btnSubmit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="400dp"
+        android:textColor="@color/cardview_light_background"
+        android:background="@color/colorPrimaryDark"
+        android:text="Submit" />
+
+</RelativeLayout>
